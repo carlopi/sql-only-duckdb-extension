@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 
+
 # Set extension name here
 set(TARGET_NAME dynamic_sql_examples)
 
